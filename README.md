@@ -1,3 +1,5 @@
+![Python](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-XML4trl5z0eloWJfwkeMAHaDt%26pid%3DApi&f=1)
+
 ## This is the Wissensbar Calculator!
 ---
 
@@ -57,4 +59,8 @@ If you know **Python**, then you can see the simplicity of the code that has bee
 When somebody downloads a program, what she or he wants to see is that the packages and modules are regularly updated. If they do not get updates, then they are not viable and good for an in the long run. 
 
 I love coding and spend a lot of time doing so, and therefore, I will most definitely keep updating the Wissensbar Calculator, and in the process, make it more user-friendly and I will also add more features and stuff to it. The Wissensbar Calculator is also one of the first *Python* projects that I have started in a long while, and I intend to keep it running and updating it as much as possible. 
+I will keep updating the program so that it becomes more and more user-friendly and more like a Command Line. 
 
+ ---
+
+![Programming](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ne876PVNQzu5OyhDh1xDvwHaEK%26pid%3DApi&f=1)
