@@ -64,9 +64,3 @@ I will keep updating the program so that it becomes more and more user-friendly 
  ---
 
 ![Programming](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ne876PVNQzu5OyhDh1xDvwHaEK%26pid%3DApi&f=1)
-
-<style>
-    p {
-        color: lightblue
-    }
-</style>
