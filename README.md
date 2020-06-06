@@ -68,10 +68,9 @@ I will keep updating the program so that it becomes more and more user-friendly 
 ![Programming](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ne876PVNQzu5OyhDh1xDvwHaEK%26pid%3DApi&f=1)
 
 ## Contact Me:
-- You could contact me at harikrishnansankar1776@gmail.com;
-- You could contect me at write.secret.gov@gmail.com;
-- You could also contact me at iPython.org@gmail.com
+- You could contect me at *write.secret.gov@gmail.com*;
+- You could also contact me at *iPython.org@gmail.com*;
 
 Please choose where to email to email me, but I would recomend you to do so to iPython.org@gmail.com. Thanks!
 
-You could also visit my website [here](https://www.sankarhk.com/)
+You could also visit my website [here](https://www.sankarhk.com/).
