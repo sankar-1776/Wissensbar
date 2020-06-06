@@ -16,6 +16,8 @@ Suppose you had a friend who loves eating eggplant, but (I take the liberty of p
 ---
 Another thing that people like is the raw look of [Command Line Interfaces](https://en.wikipedia.org/wiki/Command-line_interface). So, I decided to incorporate that into my project, and give the user a feel of using a real command line. It even uses user inputs like '*y*' and '*n*' from the user, similar to what Linux does to its users when they try to install software using the [Linux Console](https://en.wikipedia.org/wiki/Linux_console). 
 
+## Some Code From This Program
+
 Below I am showcasing some of the code in the program.
 
 ```py
