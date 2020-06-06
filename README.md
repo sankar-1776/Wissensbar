@@ -21,12 +21,12 @@ Below I am showcasing some of the code in the program.
 ```py
 def consequent_calculator(): # This functions is following the main part of the calculator and checks if the user wants to calculate more areas. 
     while True:
-        check1 = str(input("Type in 'y' to calculate another circle's area or 'q' to quit:  "))
+        check1 = str(input("Type in 'y' to calculate another circle's area or 'q' to quit>>  "))
         if check1 == "y":
             print("")
             circle_area_calc()
         elif check1 == "q":
-            quit_check = str(input("If you quit, then you will have to restart the machine. Are you sure that you want to quit? (y/n): "))
+            quit_check = str(input("If you quit, then you will have to restart the machine. Are you sure that you want to quit? (y/n)>> "))
             if quit_check == "y":
                 sys.exit() # This states that if the user input's 'n', then the program will self kill
             elif check1 == "n":
