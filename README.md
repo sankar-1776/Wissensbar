@@ -1,5 +1,3 @@
-![Python](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-XML4trl5z0eloWJfwkeMAHaDt%26pid%3DApi&f=1)
-
 # This is the Wissensbar Calculator!
 
 **This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you. 
