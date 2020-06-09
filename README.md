@@ -72,8 +72,9 @@ Now, I could hide this issue from you, but then that wouldn't help you or me. So
  ---
 
 ## Downloading the Wissensbar Calculator:
-Have you ever come across a point in time when you hated installing a program onto the hard-drive of your computer? Frankly, I have. It can be irritating. 
+Have you ever come across a point in time when you hated installing a program onto the hard-drive of your computer? Frankly, I have. It can be irritating. So I said, don't install it! Why don't I create my prject so that it can be installed without the user facing any problem of running a Setup Wizard, and stuff. 
 
+So yeah! When you download the Wissensbar Calculator, just double click the application and you are on your way!!!
 
 ## Contacting Me:
 - You could contect me at *write.secret.gov@gmail.com*;
