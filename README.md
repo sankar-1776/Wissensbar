@@ -5,8 +5,7 @@
 **This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you. 
 The **Wissensbar Calculator** is a calculator that calculates the area of a circle when the user has given it the radius of that circle. *Does not seem very interesting does it?* Let me tell you that you think right: it's not very cool or stuff, and in the current version of the project, it even uses that console that is inbuilt into your computer... Gee! Weird, is it not?
 
-## 🚀 
-**BUT THAT IS THE VERY REASON THAT YOU SHOULD USE IT!**
+## 🚀 | **BUT THAT IS THE VERY REASON THAT YOU SHOULD USE IT!**
 
 Most people use lots of applications that they download from the internet. To a person not very professional at computers, this may seems like a hard thing. You have to download it, run an Installation Wizard, choose a place to locate it while downloading, and lots of other stuff that may seem very mundane and irritating. Well guess what - **you're in luck!**
 
@@ -60,7 +59,7 @@ If you know **Python**, then you can see the simplicity of the code that has bee
 **Note:** Each boot-up may take upto fifteen seconds, but this has nothing to do with the computer's performance or quality, this happens because the project needs some time to get ready files and modules that you do not have on your computer. 
 
 ---
-## Updates
+## 👋 | Updates
 When somebody downloads a program, what she or he wants to see is that the packages and modules are regularly updated. If they do not get updates, then they are not viable and good for an in the long run. 
 
 I love coding and spend a lot of time doing so, and therefore, I will most definitely keep updating the Wissensbar Calculator, and in the process, make it more user-friendly and I will also add more features and stuff to it. The Wissensbar Calculator is also one of the first *Python* projects that I have started in a long while, and I intend to keep it running and updating it as much as possible. 
@@ -78,9 +77,9 @@ Now, I could hide this issue from you, but then that wouldn't help you or me. So
 - You could also contact me at *iPython.org@gmail.com*; and
 - Another email address of mine is sankar@sankarhk.com
     - sankar@sankarhk.com is currently facing some problems, but I'll let you know as soon as I can if it get's fixed. 
-    
-**NOTE:** If you do email me, then I will try my best to answer them as soon as I can. 
 
 Please choose where to email to email me, but I would recomend you to do so to iPython.org@gmail.com. Thanks!
 
 You could also visit my website [here](https://www.sankarhk.com/).
+
+**NOTE:** If you do email me, then I will try my best to answer them as soon as I can. 
