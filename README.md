@@ -75,12 +75,12 @@ Now, I could hide this issue from you, but then that wouldn't help you or me. So
 
 ## Contacting Me:
 - You could contect me at *write.secret.gov@gmail.com*;
-- You could also contact me at *iPython.org@gmail.com*;
+- You could also contact me at *iPython.org@gmail.com*; and
+- Another email address of mine is sankar@sankarhk.com
+    - sankar@sankarhk.com is currently facing some problems, but I'll let you know as soon as I can if it get's fixed. 
+    
+**NOTE:** If you do email me, then I will try my best to answer them as soon as I can. 
 
 Please choose where to email to email me, but I would recomend you to do so to iPython.org@gmail.com. Thanks!
 
 You could also visit my website [here](https://www.sankarhk.com/).
-
----
-
-![Programming](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ne876PVNQzu5OyhDh1xDvwHaEK%26pid%3DApi&f=1)
