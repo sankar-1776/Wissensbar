@@ -1,7 +1,8 @@
 # This is the Wissensbar Calculator!
 
-**This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you. 
-The **Wissensbar Calculator** is a calculator that calculates the area of a circle when the user has given it the radius of that circle. *Does not seem very interesting does it?* Let me tell you that you think right: it's not very cool or stuff, and in the current version of the project, it even uses that console that is inbuilt into your computer... Gee! Weird, is it not?
+**This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you.
+
+The **Wissensbar Calculator** is a calculator that calculates the area of a circle when the user has given it the radius of that circle. *Does not seem very interesting does it?* Let me tell you that you think right: it's not very cool or stuff, and in the current version of the project, it even uses that console that is inbuilt into your computer... Gee! Weird, is it not? Yeah! Of course, people!!!
 
 ## 🚀 | **BUT THAT IS THE VERY REASON THAT YOU SHOULD USE IT!**
 
@@ -12,11 +13,11 @@ Suppose you had a friend who loves eating eggplant, but (I take the liberty of p
 
 --- 
 
-Another thing that people like is the raw look of [Command Line Interfaces](https://en.wikipedia.org/wiki/Command-line_interface). So, I decided to incorporate that into my project, and give the user a feel of using a real command line. It even uses user inputs like '*y*' and '*n*' from the user, similar to what Linux does to its users when they try to install software using the [Linux Console](https://en.wikipedia.org/wiki/Linux_console). 
+Another thing that people like is the raw look of [Command Line Interfaces](https://en.wikipedia.org/wiki/Command-line_interface). So, I decided to incorporate that into my project, and give the user a feel of using a real command line. It even uses user inputs like '*y*' and '*n*' from the user, similar to what Linux does to its users when they try to install software using the [Linux Console](https://en.wikipedia.org/wiki/Linux_console). In the more recent 1.1.0 and above releases, the editions have a color coding for the user interface, thus enhancing the experience of using it and making it look awesome! [Click here to read about this edition](https://github.com/sankar-1776/Wissensbar#latest-release)
 
 ---
 
-## Some Code From This Program
+## Some Code From This Program: 
 
 Below I am showcasing some of the code in the program.
 
@@ -57,7 +58,7 @@ If you know **Python**, then you can see the simplicity of the code that has bee
 **Note:** Each boot-up may take upto fifteen seconds, but this has nothing to do with the computer's performance or quality, this happens because the project needs some time to get ready files and modules that you do not have on your computer. 
 
 ---
-## 👋 | Updates
+## 👋 | About Updates:
 When somebody downloads a program, what she or he wants to see is that the packages and modules are regularly updated. If they do not get updates, then they are not viable and good for an in the long run. 
 
 I love coding and spend a lot of time doing so, and therefore, I will most definitely keep updating the Wissensbar Calculator, and in the process, make it more user-friendly and I will also add more features and stuff to it. The Wissensbar Calculator is also one of the first *Python* projects that I have started in a long while, and I intend to keep it running and updating it as much as possible. 
@@ -69,6 +70,10 @@ The latest release of the Wissensbar Calculator is the 1.1.0 version. This versi
 Now, I could hide this issue from you, but then that wouldn't help you or me. So, in order for us to have a program that is very user friendly and immaculate in its functionings, I will need your help. If you spot any unexpected error, possibly something that you don't understand, then please remeber, that is possibly a part of the price that we payed for this color coded version. 
 
  ---
+
+## Downloading the Wissensbar Calculator:
+Have you ever come across a point in time when you hated installing a program onto the hard-drive of your computer? Frankly, I have. It can be irritating. 
+
 
 ## Contacting Me:
 - You could contect me at *write.secret.gov@gmail.com*;
