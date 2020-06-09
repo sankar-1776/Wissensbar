@@ -65,6 +65,11 @@ When somebody downloads a program, what she or he wants to see is that the packa
 I love coding and spend a lot of time doing so, and therefore, I will most definitely keep updating the Wissensbar Calculator, and in the process, make it more user-friendly and I will also add more features and stuff to it. The Wissensbar Calculator is also one of the first *Python* projects that I have started in a long while, and I intend to keep it running and updating it as much as possible. 
 I will keep updating the program so that it becomes more and more user-friendly and more like a Command Line. 
 
+### Latest Release:
+The latest release of the Wissensbar Calculator is the 1.1.0 version. This version came out with color coding for the user interface. It makes that console window and the user's use of it look more and more professional, as well as organized like it is in Linux Terminals. It is by far, one of the best upgrades to the Wissensbar Calculator, but it did come at a price... 
+
+Now, I could hide this issue from you, but then that wouldn't help you or me. So, in order for us to have a program that is very user friendly and immaculate in its functionings, I will need your help. If you spot any unexpected error, possibly something that you don't understand, then please remeber, that is possibly a part of the price that we payed for this color coded version. 
+
  ---
 
 ## Contacting Me:
