@@ -2,9 +2,10 @@
 
 ## This is the Wissensbar Calculator!
 
-👋 **This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you. 
+**This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you. 
 The **Wissensbar Calculator** is a calculator that calculates the area of a circle when the user has given it the radius of that circle. *Does not seem very interesting does it?* Let me tell you that you think right: it's not very cool or stuff, and in the current version of the project, it even uses that console that is inbuilt into your computer... Gee! Weird, is it not?
 
+## 🚀 
 **BUT THAT IS THE VERY REASON THAT YOU SHOULD USE IT!**
 
 Most people use lots of applications that they download from the internet. To a person not very professional at computers, this may seems like a hard thing. You have to download it, run an Installation Wizard, choose a place to locate it while downloading, and lots of other stuff that may seem very mundane and irritating. Well guess what - **you're in luck!**
