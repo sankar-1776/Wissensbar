@@ -52,7 +52,7 @@ def consequent_calculator(): # This functions is following the main part of the 
 consequent_calculator()
 
 ```
- ###### The above code is based on v1.0.2
+ > The above code is based on v1.0.2
  
 ---
 
