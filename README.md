@@ -52,8 +52,9 @@ def consequent_calculator(): # This functions is following the main part of the 
 consequent_calculator()
 
 ```
- #### The above code is based on v1.0.2
+ ###### The above code is based on v1.0.2
  
+---
 
 If you know **Python**, then you can see the simplicity of the code that has been written above. If you don't know *Python*, then let me tell you that this is very, very simple *Python*. It is therefore only logical that the program will not put much pressure on your computer. 
 
