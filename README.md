@@ -36,16 +36,16 @@ def consequent_calculator(): # This functions is following the main part of the 
                 print("")
                 pass
             else:
-                print("Error! Please check and try again.")
+                print("ERROR! Please check and try again.")
                 print("")
                 consequent_calculator()
         elif check1 != "y" or "n":
             print("")
-            print("Error! Either 'y' or 'n'has to be entered.")
+            print("ERROR! Either 'y' or 'n'has to be entered.")
             consequent_calculator()
         else:
             print("")
-            print("Error! Please do not enter any values other than 'y' or 'n'.")
+            print("ERROR! Please do not enter any values other than 'y' or 'n'.")
             consequent_calculator()
 
 
