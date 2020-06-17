@@ -72,9 +72,13 @@ Now, I could hide this issue from you, but then that wouldn't help you or me. So
  ---
 
 ## Downloading the Wissensbar Calculator:
-Have you ever come across a point in time when you hated installing a program onto the hard-drive of your computer? Frankly, I have. It can be irritating. So I said, don't install it! Why don't I create my prject so that it can be installed without the user facing any problem of running a Setup Wizard, and stuff. 
+Have you ever come across a point in time when you hated installing a program onto the hard-drive of your computer? Frankly, I have. It can be irritating. So I said, don't install it! Why don't I create my project so that it can be installed without the user facing any problem of running a Setup Wizard, and stuff. 
 
 So yeah! When you download the Wissensbar Calculator, just double click the application and you are on your way!!!
+
+After downloading the Wissensbar Calculator, when running it for the first time, you may come accross a dialogue saying that Windows Protected You (if you are on a Windows), or a message saying that this may be an unsafe file by your computer. This goes to show that your computer is trying to keep you safe, and it's very good if this happens. What you should do if you are running Windows is click on **More Info** and then on **Run Anyway**. I assure you that this program has no virus or similar malware, and is composed only of Python code that calculates and improves the user interface. If you want more info on this, please email me at the emails given in the following part
+
+---
 
 ## Contacting Me:
 - You could contect me at *write.secret.gov@gmail.com*;
