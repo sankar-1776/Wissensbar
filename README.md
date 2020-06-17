@@ -1,4 +1,4 @@
-# This is the Wissensbar Calculator!
+# This is the Wissensbar Calculator! ✔
 
 **This is the Wissensbar Calculator!** *Any idea what this means? No?* Don't worry - it is my job to explain that to you.
 
@@ -76,7 +76,7 @@ Have you ever come across a point in time when you hated installing a program on
 
 So yeah! When you download the Wissensbar Calculator, just double click the application and you are on your way!!!
 
-After downloading the Wissensbar Calculator, when running it for the first time, you may come accross a dialogue saying that Windows Protected You (if you are on a Windows), or a message saying that this may be an unsafe file by your computer. This goes to show that your computer is trying to keep you safe, and it's very good if this happens. What you should do if you are running Windows is click on **More Info** and then on **Run Anyway**. I assure you that this program has no virus or similar malware, and is composed only of Python code that calculates and improves the user interface. If you want more info on this, please email me at the emails given in the following part
+After downloading the Wissensbar Calculator, when running it for the first time, you may come accross a dialogue saying that Windows Protected You (if you are on a Windows), or a message saying that this may be an unsafe file by your computer. This goes to show that your computer is trying to keep you safe, and it's very good if this happens. What you should do if you are running Windows is click on **More Info** and then on **Run Anyway**. I assure you that this program has no virus or similar malware, and is composed only of Python code that calculates and improves the user interface. If you want more info on this, please email me at the emails given in the following part 😊.
 
 ---
 
@@ -91,3 +91,5 @@ Please choose where to email to email me, but I would recomend you to do so to i
 You could also visit my website [here](https://www.sankarhk.com/).
 
 **NOTE:** If you do email me, then I will try my best to answer them as soon as I can. 
+
+✔
