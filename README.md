@@ -71,6 +71,7 @@ I will keep updating the program so that it becomes more and more user-friendly 
 The latest version of the Wissensbar Calculator is the 1.1.2 release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
 
 > Use the command **cr_calc{}** to start the Circls Area Calculator.
+
 > Use the command **help{}** to access the Help Module. 
 
 In order to get back to the terminal, use the code **'tc'** in the *What Type An Answer Do You Want Console*, and you will be brought back to the terminal. 
