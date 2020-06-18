@@ -22,34 +22,38 @@ Another thing that people like is the raw look of [Command Line Interfaces](http
 Below I am showcasing some of the code in the program.
 
 ```py
-def consequent_calculator(): # This functions is following the main part of the calculator and checks if the user wants to calculate more areas. 
-    while True:
-        check1 = str(input("Type in 'y' to calculate another circle's area or 'q' to quit>>  "))
-        if check1 == "y":
-            print("")
-            circle_area_calc()
-        elif check1 == "q":
-            quit_check = str(input("If you quit, then you will have to restart the machine. Are you sure that you want to quit? (y/n)>> "))
-            if quit_check == "y":
-                sys.exit() # This states that if the user input's 'n', then the program will self kill
-            elif check1 == "n":
+        # The following function will be used to check if the user wants to calculate the areas of further circles and then loop him/her back to circle_area_calc().
+        def consequent_calculator():
+            while True:
+                check1 = str(input(gyellow + "Wissensbar # " + end + red + "Type in 'y' to calculate another circle's area or 'q' to quit" + end + result + " %%>>> " + end))
                 print("")
-                pass
-            else:
-                print("ERROR! Please check and try again.")
-                print("")
-                consequent_calculator()
-        elif check1 != "y" or "n":
-            print("")
-            print("ERROR! Either 'y' or 'n'has to be entered.")
-            consequent_calculator()
-        else:
-            print("")
-            print("ERROR! Please do not enter any values other than 'y' or 'n'.")
-            consequent_calculator()
+                if check1 == "y" or "Y":
+                    print("")
+                    circle_area_calc()
+                elif check1 == "q" or "Q":
+                    quit_check = str(input(error + "If you quit, then you will have to restart the machine. Are you sure that you want to quit? If yes, then enter 'y' and hit enter, if not, then hit 'n' and then enter" + end + result + " %%>>> " + end))
+                    if quit_check == "y":
+                        sys.exit() # This states that if the user input's 'n', then the program will self kill
+                    elif quit_check == "n" or "N":
+                        print("")
+                        pass
+                    else:
+                        print(error + "Sorry! This is not an accepted command. Please check and try again." + end)
+                        print("")
+                        consequent_calculator()
+                elif check1 == "t" or "T":
+                    deck_()
+                elif check1 != "y" or "Y" or "n" or "N":
+                    print("")
+                    print(error + "ERROR! Either 'y' or 'n' has to be entered." + end)
+                    consequent_calculator()
+                else:
+                    print("")
+                    print(error + "ERROR! Please do not enter any values other than 'y' or 'n'."+ end)
+                    consequent_calculator()
 
 
-consequent_calculator()
+        consequent_calculator() # This will run the function to repeatedly to check if the user wants to calculate the area of further circles (consequent_calculator).
 
 ```
  > The above code is based on v1.0.2
