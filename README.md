@@ -68,11 +68,14 @@ I love coding and spend a lot of time doing so, and therefore, I will most defin
 I will keep updating the program so that it becomes more and more user-friendly and more like a Command Line. 
 
 ### Latest Release:
-The latest release of the Wissensbar Calculator is the 1.1.0 version. This version came out with color coding for the user interface. It makes that console window and the user's use of it look more and more professional, as well as organized like it is in Linux Terminals. It is by far, one of the best upgrades to the Wissensbar Calculator, but it did come at a price... 
+The latest version of the Wissensbar Calculator is the 1.1.2 release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
 
-Now, I could hide this issue from you, but then that wouldn't help you or me. So, in order for us to have a program that is very user friendly and immaculate in its functionings, I will need your help. If you spot any unexpected error, possibly something that you don't understand, then please remeber, that is possibly a part of the price that we payed for this color coded version. 
+> Use the command **cr_calc{}** to start the Circls Area Calculator.
+> Use the command **help{}** to access the Help Module. 
 
- ---
+In order to get back to the terminal, use the code **'tc'** in the *What Type An Answer Do You Want Console*, and you will be brought back to the terminal. 
+
+---
 
 ## Downloading the Wissensbar Calculator:
 Have you ever come across a point in time when you hated installing a program onto the hard-drive of your computer? Frankly, I have. It can be irritating. So I said, don't install it! Why don't I create my project so that it can be installed without the user facing any problem of running a Setup Wizard, and stuff. 
