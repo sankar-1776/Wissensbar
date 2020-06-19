@@ -75,16 +75,10 @@ I will keep updating the program so that it becomes more and more user-friendly 
 ### Latest Release:
 The latest version of the Wissensbar Calculator is the 1.1.2 (b) release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
 
-> Use the command **cr_calc{.}** to start the Circls Area Calculator.
+There is a small glitch. You will have to wait for it to be fixed, which should not take long. Sorry.
 
-> Use the command **help{.}** to access the Help Module. 
-
-In order to get back to the terminal, use the code **'tc'** in the *What Type An Answer Do You Want Console*, and you will be brought back to the terminal. 
-
- #### About The Use of {.} In The Commands:
- If you look at the commands, you see that all the commands end in a **{.}**. This is a feature of this CommandLang. The combination of those curly brackets and the period inside it is called a **LagTag**. A ComLag with a '**.**' inside it refers to a null ComLag, i.e., it does something, but that something does not change the structure of the code or the operations that it performs. 
- 
-Soon, I will be introducing values into that ComLag, and those values will then alter the code as and where needed. 
+ #### About The Use of {.}, {1} In The Commands:
+If you look at the commands, you see that all the commands end in a **{.}**. This is a feature of this CommandLang. The combination of those curly brackets and the period inside it is called a **NullLagTag**. A NullLagTag with a '**.**' inside it refers to, as the name suggests, a null NullLagTag, i.e., it does something, but that something does not change the structure of the code or the operations that it performs. 
 
 ---
 
