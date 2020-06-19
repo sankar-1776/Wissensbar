@@ -63,7 +63,7 @@ consequent_calculator() # This will run the function to repeatedly to check if t
 
 If you know **Python**, then you can see the simplicity of the code that has been written above. If you don't know *Python*, then let me tell you that this is very, very simple *Python*. It is therefore only logical that the program will not put much pressure on your computer. 
 
-**Note:** Each boot-up may take upto fifteen seconds, but this has nothing to do with the computer's performance or quality, this happens because the project needs some time to get ready files and modules that you do not have on your computer. 
+**Note:** Each boot-up may take upto ten seconds, but this has nothing to do with the computer's performance or quality, this happens because the project needs some time to get files and modules that you do not have on your computer up and running. 
 
 ---
 ## 👋 | About Updates:
@@ -73,7 +73,7 @@ I love coding and spend a lot of time doing so, and therefore, I will most defin
 I will keep updating the program so that it becomes more and more user-friendly and more like a Command Line. 
 
 ### Latest Release:
-The latest version of the Wissensbar Calculator is the 1.1.2 release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
+The latest version of the Wissensbar Calculator is the 1.1.2 (b) release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
 
 > Use the command **cr_calc{.}** to start the Circls Area Calculator.
 
@@ -82,7 +82,7 @@ The latest version of the Wissensbar Calculator is the 1.1.2 release. It has com
 In order to get back to the terminal, use the code **'tc'** in the *What Type An Answer Do You Want Console*, and you will be brought back to the terminal. 
 
  #### About The Use of {.} In The Commands:
- If you look at the commands, you see that all the commands end in a **{.}**. This is a feature of this CommandLang. The combination of those curly brackets and the period inside it is called a **ComLag**. A ComLag with a '**.**' inside it refers to a null ComLag, i.e., it does something, but that something does not change the structure of the code or the operations that it performs. 
+ If you look at the commands, you see that all the commands end in a **{.}**. This is a feature of this CommandLang. The combination of those curly brackets and the period inside it is called a **LagTag**. A ComLag with a '**.**' inside it refers to a null ComLag, i.e., it does something, but that something does not change the structure of the code or the operations that it performs. 
  
 Soon, I will be introducing values into that ComLag, and those values will then alter the code as and where needed. 
 
@@ -98,7 +98,6 @@ After downloading the Wissensbar Calculator, when running it for the first time,
 ---
 
 ## Contacting Me:
-- You could contect me at *write.secret.gov@gmail.com*;
 - You could also contact me at *iPython.org@gmail.com*; and
 - Another email address of mine is sankar@sankarhk.com
     - sankar@sankarhk.com is currently facing some problems, but I'll let you know as soon as I can if it get's fixed. 
