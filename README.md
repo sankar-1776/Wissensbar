@@ -73,12 +73,23 @@ I love coding and spend a lot of time doing so, and therefore, I will most defin
 I will keep updating the program so that it becomes more and more user-friendly and more like a Command Line. 
 
 ### Latest Release:
-The latest version of the Wissensbar Calculator is the 1.1.2 (b) release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
+The latest version of the Wissensbar Calculator is the 1.1.3 release. It has come with some major upgrades and I've also introduced a style for the user to navigate the console. You can use some special commands to navigate it. For now, the commands are not much, and I will be listing them below for your reference. 
 
-There is a small glitch. You will have to wait for it to be fixed, which should not take long. Sorry.
 
- #### About The Use of {.}, {1} In The Commands:
-If you look at the commands, you see that all the commands end in a **{.}**. This is a feature of this CommandLang. The combination of those curly brackets and the period inside it is called a **NullLagTag**. A NullLagTag with a '**.**' inside it refers to, as the name suggests, a null NullLagTag, i.e., it does something, but that something does not change the structure of the code or the operations that it performs. 
+ #### Using The Wissensbar Calculator:
+> Use the command **cr_calc.init{1}** to initiate the Calculator part of the **Wissensbar Calculator**
+ 
+> Use the command **help.disp{0}** to read a small help dialogue.
+
+> Use the command **shtdn.op{A}** to use the **Wissenbar OS** to shutdown your computer.
+
+> Use the command **restrt.op{A}** to use the **Wissensbar OS** to restart your computer.
+
+> Use the command **quitZ.op{1}** to to quit the **Wissensbar Calculator**.
+
+> Use the command **webpg.open{0}** to open this webpage for references.
+
+> Use the command **clear!** to clear your screen.
 
 ---
 
